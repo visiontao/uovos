@@ -2,10 +2,10 @@
 Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli, Fellow, IEEE
 
 # Test Environment
-Ubuntu
-Matlab
-Opencv3.4
-Python2.7
+Ubuntu \\
+Matlab \\
+Opencv3.4 \\
+Python2.7 \\
 Mask-RCNN
 
 # Paper & Citation
