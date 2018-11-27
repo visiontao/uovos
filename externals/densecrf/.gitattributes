@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+*.py linguist-language=python
+*.m linguist-language=python
+*.cpp linguist-language=python
+*.h linguist-language=python
