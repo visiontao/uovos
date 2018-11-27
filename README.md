@@ -5,7 +5,7 @@ Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli, Fel
 Ubuntu \
 Matlab \
 Python2.7 \
-Mask-RCNN \
+Mask-RCNN 
 
 # Citation:
 If you use this code, please cite the following paper:
