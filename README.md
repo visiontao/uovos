@@ -1,5 +1,5 @@
 # Unsupervised Online Video Object Segmentation with Motion Property Understanding
-Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli, Fellow, IEEE
+Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli
 
 # Setup
 Ubuntu \
