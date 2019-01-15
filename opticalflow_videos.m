@@ -41,10 +41,9 @@ for n = 1:numel(videos)
 
         flow = opticalFlow_siftFlow(frame2,frame1);
 
-        saveName = strcat(path_save,'/flow_',num2str(k,'%05d'),'.mat');
-
-        save(saveName, 'flow');
-
+        saveName = strcat(path_save,'/flow_',num2str(k,'%05d'),'.flo');
+        writeFlowFile(flow, saveName); 
+        
         duration = toc;
 
         fprintf('current processing video %d/%d, frame %d/%d, elapsed time %fs \n', ...
