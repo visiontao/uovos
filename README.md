@@ -1,11 +1,25 @@
 # Unsupervised Online Video Object Segmentation with Motion Property Understanding
 Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli
 
+# Results on DAVIS-2016 TrainVal Dataset (50 videos)
+
+| Measure  | UOVOS |
+| ------------- | ------------- |
+| J Mean  | Content Cell  |
+| J Recall  | Content Cell  |
+| J Decay  | Content Cell  |
+| ------------- | ------------- |
+| F Mean  | Content Cell  |
+| F mean  | Content Cell  |
+| F mean  | Content Cell  |
+| ------------- | ------------- |
+| T  | Content Cell  |
+
 # Setup
 Ubuntu \
 Matlab \
 Python2.7 \
-Mask-RCNN \
+Mask-RCNN \ https://github.com/matterport/Mask_RCNN
 Opencv_3.4
 
 # Citation:
