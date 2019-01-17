@@ -15,7 +15,7 @@ Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli
 
 NLC: Video Segmentation by Non-Local Consensus voting. A. Faktor, M. Irani, BMVC 2014. \
 LMP: Learning Motion Patterns in Videos. P. Tokmakov, K. Alahari, C. Schmid, CVPR 2017. \
-FSEG: FusionSeg: Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos. \
+FSEG: FusionSeg: Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos. S. Jain, B. Xiong, K. Grauman, CVPR 2017. \
 ARP: Primary Object Segmentation in Videos Based on Region Augmentation and Reduction. Y.J. Koh, C.-S. Kim, CVPR 2017. 
 
 # Setup
