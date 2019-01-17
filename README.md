@@ -22,8 +22,8 @@ ARP: Primary Object Segmentation in Videos Based on Region Augmentation and Redu
 Ubuntu \
 Matlab \
 Python2.7 \
-Mask-RCNN https://github.com/matterport/Mask_RCNN \ 
-Opencv_3.4
+Opencv_3.4 \
+Mask-RCNN https://github.com/matterport/Mask_RCNN 
 
 # Citation:
 If you use this code, please cite the following paper:
