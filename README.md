@@ -25,7 +25,7 @@ Python2.7 \
 Opencv_3.4 \
 Mask-RCNN https://github.com/matterport/Mask_RCNN 
 
-# Citation:
+# Citation
 If you use this code, please cite the following paper:
 
 @article{zhuo2018unsupervised,
