@@ -9,8 +9,8 @@ Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli
  | J Recall  |  73.1 |  82.9  |  87.7 | 89.2 | 93.6  | 
  | J Decay   |  8.6  |  5.6   |  1.7  | 3.6  | 2.1   | 
  | F Mean    |  59.3 |  66.3  |  65.8 | 71.1 | 72.0  |
- | F mean    |  65.8 |  78.3  |  79.0 | 82.8 | 87.7  | 
- | F mean    |  8.6  |  6.7   |  4.3  | 7.3  | 3.8   |
+ | F Recall  |  65.8 |  78.3  |  79.0 | 82.8 | 87.7  | 
+ | F Decay   |  8.6  |  6.7   |  4.3  | 7.3  | 3.8   |
  | T         |  36.6 |  68.8  |  29.5 | 35.9 | 33.0  |
 
 NLC: Video Segmentation by Non-Local Consensus voting. A. Faktor, M. Irani, BMVC 2014. \
