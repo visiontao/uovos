@@ -1,5 +1,5 @@
 # Unsupervised Online Video Object Segmentation with Motion Property Understanding
-Tao Zhuo, Zhiyong Cheng*, Peng Zhang*, Yongkang Wong, and Mohan Kankanhalli
+Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wong, and Mohan Kankanhalli
 
 # Results on DAVIS-2016 TrainVal Dataset (50 videos)
 
@@ -31,8 +31,8 @@ If you use this code, please cite the following paper:
 @article{zhuo2018unsupervised,
   title={Unsupervised Online Video Object Segmentation with Motion Property Understanding},
   author={Zhuo, Tao and Cheng, Zhiyong and Zhang, Peng and Wong, Yongkang and Kankanhalli, Mohan},
-  journal={arXiv preprint arXiv:1810.03783},
-  year={2018}
+  journal={IEEE Transaction on Image Processing},
+  year={2019}
 }
 
 # Contact
